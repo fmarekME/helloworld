@@ -1,2 +1,3 @@
 File 01 Test GIT
 Second line inserted
+Third line inserted
