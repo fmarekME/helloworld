@@ -1,3 +1,4 @@
 File 01 Test GIT
 Second line inserted (and modified)
 Third line inserted
+Another line was inserted
